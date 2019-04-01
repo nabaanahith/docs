@@ -1,0 +1,9 @@
+com.enjaz.debug.logging
+com.enjaz.debug.logging.database
+com.enjaz.debug.logging.entities
+com.enjaz.debug.logging.helper
+com.enjaz.debug.logging.logging
+com.enjaz.debug.logging.model
+com.enjaz.debug.logging.presenter
+com.enjaz.debug.logging.view
+com.enjaz.debug.statis
